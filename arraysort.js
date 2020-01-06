@@ -23,6 +23,6 @@ console.log(unSortedArray);
    return "evens :" + [evens] + "  odds :" + [odds] + "  chars :" + [chars] ; 
 }
 console.log(sortArray(unSortedArray));
-   
+module.exports =  sortArray;  
   
    
